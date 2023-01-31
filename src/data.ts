@@ -1,16 +1,12 @@
 export const data = [
+  ["BUMP", "Bring Up My Post"],
+  ["HER", "Having Everything Revealed"],
+  ["NERD", "No one Ever Really Dies"],
   [
-    "ABBA (musical group)",
-    "Agnetha, Björn, Benny, Anni-Frid (first names of the band’s members)",
-  ],
-  ["BUMP (slang)", "Bring Up My Post"],
-  ["HER (musician)", "Having Everything Revealed"],
-  ["NERD (musical group)", "No one Ever Really Dies"],
-  [
-    "SHIELD (TV show)",
+    "SHIELD",
     "Strategic Homeland Intervention, Enforcement and Logistics Division",
   ],
-  ["WAL", " (animated character) - Waste Allocation Load Lifter Earth-Class"],
+  ["WAL", "(animated character) - Waste Allocation Load Lifter Earth-Class"],
   ["YAHOO (search engine)", "Yet Another Hierarchical Officious Oracle"],
   ["ASAP", "As Soon As Possible"],
   ["BAE", "Before Anyone Else"],
